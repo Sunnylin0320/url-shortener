@@ -21,3 +21,15 @@
 
 1. git clone [https://github.com/Sunnylin0320/url-shortener]
 
+2. 進入專案目錄：cd url-shortener
+
+3. 安裝相依套件：npm install
+
+4. 設定環境變數：
+
+- 在根目錄建立一個 `.env` 檔案，並根據需要設定以下變數：MONGODB_URI=<your-mongodb-uri>
+
+5. 啟動應用程式：npm start
+
+6. 在瀏覽器中打開 `http://localhost:3000`
+
